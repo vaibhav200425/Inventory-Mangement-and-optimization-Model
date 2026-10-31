@@ -1,0 +1,11 @@
+sku_id,category,base_demand,demand_volatility,unit_cost,lead_time_days
+SKU-001,Fast-Mover,120,0.15,8.5,5
+SKU-002,Fast-Mover,95,0.2,12.0,7
+SKU-003,Fast-Mover,150,0.18,6.0,4
+SKU-004,Fast-Mover,80,0.25,15.0,6
+SKU-005,Medium-Mover,45,0.3,45.0,12
+SKU-006,Medium-Mover,38,0.28,60.0,14
+SKU-007,Medium-Mover,55,0.35,25.0,10
+SKU-008,Medium-Mover,30,0.3,90.0,15
+SKU-009,Slow-Mover,12,0.45,250.0,21
+SKU-010,Slow-Mover,8,0.5,400.0,25
