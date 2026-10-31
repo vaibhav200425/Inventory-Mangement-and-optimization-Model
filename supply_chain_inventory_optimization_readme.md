@@ -7,7 +7,7 @@
 
 **Author:** Vaibhav Gidde  
 **Institution:** Visvesvaraya National Institute of Technology (VNIT), Nagpur  
-**Discipline:** Mechanical Engineering  
+**Discipline:**Civil Engineering  
 
 ---
 
